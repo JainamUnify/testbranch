@@ -1,0 +1,64 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1761283837225,
+	"deleted":true,
+	"description":"description",
+	"edges":[
+		{
+			"fromNodeId":"_jrO86",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"_y722f",
+			"type":"next"
+		}
+	],
+	"id":"68fb0efd03d2ba7b55eff23b",
+	"lastModifiedBy":39,
+	"lcName":"testbuttonvonage voice_11761283374353",
+	"modifiedTime":1761283888080,
+	"name":"TestButtonVonage Voice_11761283374353",
+	"nodes":[
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_jrO86-1",
+			"id":"_jrO86",
+			"index":0,
+			"skip":false,
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		},
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_jrO86-1",
+			"id":"_y722f",
+			"index":0,
+			"skip":false,
+			"title":"Select an app and action",
+			"type":"ACTION"
+		}
+	],
+	"ownerUserId":39,
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":1
+}
