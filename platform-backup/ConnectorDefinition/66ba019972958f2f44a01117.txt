@@ -1,0 +1,51 @@
+{
+	"auths":[
+		{
+			"createdTime":1723466140468,
+			"description":"Auth description added",
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					},
+					"properties":{
+						"usertoken":{
+							"type":"string",
+							"title":"usertoken"
+						},
+						"bottoken":{
+							"type":"string",
+							"title":"bottoken"
+						}
+					},
+					"required":[
+						"usertoken",
+						"bottoken"
+					]
+				}
+			},
+			"name":"access token",
+			"type":"TOKEN",
+			"updatedTime":1723466142987
+		}
+	],
+	"createdTime":1723466137365,
+	"deleted":true,
+	"description":"connector discription added",
+	"enabled":true,
+	"id":"66ba019972958f2f44a01117",
+	"lastModifiedBy":39,
+	"lcName":"automation custom slack 117234660890170",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1723466255348,
+	"name":"Automation custom slack 117234660890170",
+	"ownerUserId":39,
+	"standard":false,
+	"standardApp":false,
+	"version":5
+}
