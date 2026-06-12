@@ -1,0 +1,63 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1761165247009,
+	"deleted":false,
+	"edges":[
+		{
+			"fromNodeId":"_ntiCO",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"_6j6cR",
+			"type":"next"
+		}
+	],
+	"id":"68f93fbf77821072dfa8cf0b",
+	"lastModifiedBy":39,
+	"lcName":"encryptionbyunifyappslocalhoagymjfay",
+	"modifiedTime":1761165247009,
+	"name":"EncryptionByUnifyAppsLocalHoagyMjfay",
+	"nodes":[
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_ntiCO-1",
+			"id":"_ntiCO",
+			"index":0,
+			"skip":false,
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		},
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_ntiCO-1",
+			"id":"_6j6cR",
+			"index":0,
+			"skip":false,
+			"title":"Select an app and action",
+			"type":"ACTION"
+		}
+	],
+	"ownerUserId":39,
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":0
+}
