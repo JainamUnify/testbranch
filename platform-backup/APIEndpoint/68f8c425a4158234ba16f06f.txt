@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1761133605332,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/68f8c40acc90365e8798397e",
+	"id":"68f8c425a4158234ba16f06f",
+	"lastModifiedBy":-1,
+	"lcName":"sd automation web-hook",
+	"modifiedTime":1761133605332,
+	"name":"sd Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68f8c40acc90365e8798397e",
+	"resourceIds":[
+		"68f8c40acc90365e8798397e"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
