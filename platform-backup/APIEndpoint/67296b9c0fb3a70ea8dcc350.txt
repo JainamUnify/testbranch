@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67296b890fb3a70ea8dcc320",
+	"createdTime":1730767772612,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"epzntygxft/PosAziiBBE/{name}?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67296b9c0fb3a70ea8dcc350",
+	"lastModifiedBy":39,
+	"lcName":"xauvezqpxtxiqspqoefu",
+	"modifiedTime":1730767773334,
+	"name":"XaUveZQpxtXiqSPqOEfU",
+	"ownerUserId":39,
+	"path":"PosAziiBBE/{name}",
+	"resourceIds":[
+		"667a63b77fc8ed141d97161c"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
