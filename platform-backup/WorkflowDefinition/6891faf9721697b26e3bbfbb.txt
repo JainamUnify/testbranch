@@ -1,0 +1,64 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1754397433989,
+	"deleted":true,
+	"description":"description",
+	"edges":[
+		{
+			"fromNodeId":"_xcDWD",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"_9DEVE",
+			"type":"next"
+		}
+	],
+	"id":"6891faf9721697b26e3bbfbb",
+	"lastModifiedBy":39,
+	"lcName":"testbuttonreddit_11754395794022",
+	"modifiedTime":1754397440671,
+	"name":"TestButtonReddit_11754395794022",
+	"nodes":[
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_xcDWD-1",
+			"id":"_xcDWD",
+			"index":0,
+			"skip":false,
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		},
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_xcDWD-1",
+			"id":"_9DEVE",
+			"index":0,
+			"skip":false,
+			"title":"Select an app and action",
+			"type":"ACTION"
+		}
+	],
+	"ownerUserId":39,
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":1
+}
