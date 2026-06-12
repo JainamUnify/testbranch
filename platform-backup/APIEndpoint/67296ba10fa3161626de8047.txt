@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67296b890fb3a70ea8dcc31c",
+	"createdTime":1730767777465,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"pshmrjtamw/iMQRoUtTUI/{name}/{age}?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67296ba10fa3161626de8047",
+	"lastModifiedBy":39,
+	"lcName":"lerjrpaddvumorftksmv",
+	"modifiedTime":1730767778170,
+	"name":"leRJRpaDdVuMORftKSMv",
+	"ownerUserId":39,
+	"path":"iMQRoUtTUI/{name}/{age}",
+	"resourceIds":[
+		"66797116d470d60137eb21af"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
