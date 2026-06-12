@@ -1,0 +1,31 @@
+{
+	"createdTime":1724829607808,
+	"deleted":true,
+	"description":"connector discription added",
+	"enabled":false,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"C",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"2323"
+				],
+				"principalType":"USER"
+			}
+		]
+	},
+	"id":"66cecfa710abba43954b064e",
+	"lastModifiedBy":39,
+	"lcName":"createconnectorssdk-117248259749600",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1724829631743,
+	"name":"createConnectorsSdk-117248259749600",
+	"ownerUserId":39,
+	"standard":false,
+	"standardApp":false,
+	"version":2
+}
