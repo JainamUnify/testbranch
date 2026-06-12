@@ -1,0 +1,54 @@
+{
+	"appsUsed":[
+		"shopify"
+	],
+	"createdTime":1761806866393,
+	"deleted":true,
+	"description":"description",
+	"edges":[
+		
+	],
+	"id":"69030a128acced3b7a103577",
+	"lastModifiedBy":39,
+	"lcName":"automation_paypaldelete11761804813877",
+	"modifiedTime":1761806898877,
+	"name":"Automation_PayPalDelete11761804813877",
+	"nodes":[
+		{
+			"context":{
+				"appName":"shopify"
+			},
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_Pt2Sq-1",
+			"id":"n_g1qXt",
+			"index":1,
+			"skip":false,
+			"subTitle":"Shopify",
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		}
+	],
+	"ownerUserId":39,
+	"schemaReferences":[
+		
+	],
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":3
+}
