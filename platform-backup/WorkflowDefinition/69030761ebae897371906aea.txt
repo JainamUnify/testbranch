@@ -1,0 +1,64 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1761806177174,
+	"deleted":true,
+	"description":"description",
+	"edges":[
+		{
+			"fromNodeId":"_hNIPy",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"_jz1mw",
+			"type":"next"
+		}
+	],
+	"id":"69030761ebae897371906aea",
+	"lastModifiedBy":39,
+	"lcName":"testbuttoncoldreach_11761804810555",
+	"modifiedTime":1761806198975,
+	"name":"TestButtonColdreach_11761804810555",
+	"nodes":[
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_hNIPy-1",
+			"id":"_hNIPy",
+			"index":0,
+			"skip":false,
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		},
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_hNIPy-1",
+			"id":"_jz1mw",
+			"index":0,
+			"skip":false,
+			"title":"Select an app and action",
+			"type":"ACTION"
+		}
+	],
+	"ownerUserId":39,
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":1
+}
