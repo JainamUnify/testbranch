@@ -1,0 +1,40 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68d66cde32d4383e13023e8b",
+	"createdTime":1758884986697,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Fetches a list of the available devices",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"FagunCallables/fetchdevice",
+	"id":"68d6747a32d4383e13027741",
+	"lastModifiedBy":39,
+	"lcName":"fetchdevice",
+	"modifiedTime":1758885891318,
+	"name":"fetchdevice",
+	"ownerUserId":39,
+	"path":"fetchdevice",
+	"resourceIds":[
+		"68d66d95b7a45b32751410fa"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":4
+}
