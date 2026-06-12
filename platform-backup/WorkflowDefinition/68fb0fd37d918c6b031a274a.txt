@@ -1,0 +1,56 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1761284051678,
+	"deleted":true,
+	"description":"description",
+	"edges":[
+		
+	],
+	"id":"68fb0fd37d918c6b031a274a",
+	"lastModifiedBy":39,
+	"lcName":"callable incomplete setup - 11761283368378",
+	"modifiedTime":1761284138909,
+	"name":"callable incomplete Setup - 11761283368378",
+	"nodes":[
+		{
+			"context":{
+				"appName":"callables",
+				"resourceVersion":525,
+				"resourceName":"callables_from_api"
+			},
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_AI7Xb-1",
+			"id":"n_ZvUEd",
+			"index":1,
+			"skip":false,
+			"subTitle":"Callable",
+			"title":"Trigger via API",
+			"trigger":{
+				"type":"CALLABLE"
+			},
+			"type":"START"
+		}
+	],
+	"ownerUserId":39,
+	"schemaReferences":[
+		
+	],
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":2
+}
