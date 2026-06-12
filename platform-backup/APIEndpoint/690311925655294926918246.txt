@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1761808786290,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/690311776ba3015841c4f009",
+	"id":"690311925655294926918246",
+	"lastModifiedBy":-1,
+	"lcName":"delayuntil_workflowwaiting- and verify the repeat run after cancelling a run in the waiting state-117618048264820 automation web-hook",
+	"modifiedTime":1761808993178,
+	"name":"delayUntil_workflowWaiting- and Verify the repeat run after cancelling a run in the waiting state-117618048264820 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"690311776ba3015841c4f009",
+	"resourceIds":[
+		"690311776ba3015841c4f009"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
