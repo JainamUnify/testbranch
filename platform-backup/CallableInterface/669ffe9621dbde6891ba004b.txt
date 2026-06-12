@@ -1,0 +1,47 @@
+{
+	"createdTime":1721761430069,
+	"deleted":false,
+	"description":"description added",
+	"id":"669ffe9621dbde6891ba004b",
+	"input":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{
+			"ua:modal":{
+				"field_type":"STRING",
+				"is_optional":true
+			},
+			"properties":{
+				"input_string":{
+					"type":"string",
+					"title":"input_string"
+				}
+			},
+			"required":[]
+		}
+	},
+	"lastModifiedBy":39,
+	"lcName":"automation_interface_filter_lastmodifiedby_isnot_117217602560230",
+	"modifiedTime":1721761430069,
+	"name":"Automation_Interface_Filter_LastModifiedBy_Isnot_117217602560230",
+	"output":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{
+			"ua:modal":{
+				"field_type":"STRING",
+				"is_optional":true
+			},
+			"properties":{
+				"output_string":{
+					"type":"string",
+					"title":"output_string"
+				}
+			},
+			"required":[]
+		}
+	},
+	"ownerUserId":39,
+	"standard":false,
+	"version":0
+}
