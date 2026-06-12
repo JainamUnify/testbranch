@@ -1,0 +1,64 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1761805972580,
+	"deleted":true,
+	"description":"description",
+	"edges":[
+		{
+			"fromNodeId":"_85f1o",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"_0RHUA",
+			"type":"next"
+		}
+	],
+	"id":"690306946ba3015841c476c5",
+	"lastModifiedBy":39,
+	"lcName":"mongodbadd_condition_fields_not_disappearing_117618048207660",
+	"modifiedTime":1761806001374,
+	"name":"MongoDBAdd_condition_fields_not_disappearing_117618048207660",
+	"nodes":[
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_85f1o-1",
+			"id":"_85f1o",
+			"index":0,
+			"skip":false,
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		},
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_85f1o-1",
+			"id":"_0RHUA",
+			"index":0,
+			"skip":false,
+			"title":"Select an app and action",
+			"type":"ACTION"
+		}
+	],
+	"ownerUserId":39,
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":1
+}
