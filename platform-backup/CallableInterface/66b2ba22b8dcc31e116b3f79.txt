@@ -1,0 +1,41 @@
+{
+	"createdTime":1722989090161,
+	"deleted":true,
+	"description":"xJCaHdRdYQ",
+	"id":"66b2ba22b8dcc31e116b3f79",
+	"input":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{
+			"type":"object",
+			"properties":{
+				"name":{
+					"type":"string",
+					"title":"Name"
+				}
+			},
+			"required":[]
+		}
+	},
+	"lastModifiedBy":39,
+	"lcName":"edit fkmksvgqmt",
+	"modifiedTime":1722989116285,
+	"name":"Edit FkmkSVgqMt",
+	"output":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{
+			"type":"object",
+			"properties":{
+				"name":{
+					"type":"string",
+					"title":"Name"
+				}
+			},
+			"required":[]
+		}
+	},
+	"ownerUserId":39,
+	"standard":false,
+	"version":2
+}
