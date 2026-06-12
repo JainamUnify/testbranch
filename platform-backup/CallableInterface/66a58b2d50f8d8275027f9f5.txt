@@ -1,0 +1,23 @@
+{
+	"createdTime":1722125101900,
+	"deleted":false,
+	"description":"tfdAnXpbId",
+	"id":"66a58b2d50f8d8275027f9f5",
+	"input":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{}
+	},
+	"lastModifiedBy":39,
+	"lcName":"nueetafseo",
+	"modifiedTime":1722125103695,
+	"name":"NueeTAfSEO",
+	"output":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{}
+	},
+	"ownerUserId":39,
+	"standard":false,
+	"version":1
+}
