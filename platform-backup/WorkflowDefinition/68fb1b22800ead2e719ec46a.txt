@@ -1,0 +1,64 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1761286946188,
+	"deleted":true,
+	"description":"description",
+	"edges":[
+		{
+			"fromNodeId":"_VMeG0",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"_zzym5",
+			"type":"next"
+		}
+	],
+	"id":"68fb1b22800ead2e719ec46a",
+	"lastModifiedBy":39,
+	"lcName":"cancel_button_for_clear_all_button_for_add field_117612833683780",
+	"modifiedTime":1761286978491,
+	"name":"cancel_button_for_clear_all_button_for_Add Field_117612833683780",
+	"nodes":[
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_VMeG0-1",
+			"id":"_VMeG0",
+			"index":0,
+			"skip":false,
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		},
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_VMeG0-1",
+			"id":"_zzym5",
+			"index":0,
+			"skip":false,
+			"title":"Select an app and action",
+			"type":"ACTION"
+		}
+	],
+	"ownerUserId":39,
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":1
+}
