@@ -1,0 +1,33 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"687bdd3482707c48f3bf34c0",
+	"createdTime":1752948026601,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"ab9iwmp/aszqij",
+	"id":"687bdd3a82707c48f3bf34ee",
+	"lastModifiedBy":39,
+	"lcName":"endpoint-customhttp_export117529468124100",
+	"modifiedTime":1757340914786,
+	"name":"endpoint-customHTTP_export117529468124100",
+	"ownerUserId":39,
+	"path":"aszqij",
+	"resourceIds":[
+		"687bdd20050a9f7f3786e782"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
