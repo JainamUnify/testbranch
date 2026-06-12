@@ -1,0 +1,39 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"66e19a10505894748dcdf7e4",
+	"createdTime":1757965263316,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"alert/Heartbeat-Lowes",
+	"id":"68c86bcf9970cc2a8890a9e8",
+	"lastModifiedBy":39,
+	"lcName":"heartbeat lowes",
+	"modifiedTime":1757966780546,
+	"name":"Heartbeat Lowes",
+	"ownerUserId":39,
+	"path":"Heartbeat-Lowes",
+	"resourceIds":[
+		"68c86e0cbac7d0092cfb2dd9"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":4
+}
