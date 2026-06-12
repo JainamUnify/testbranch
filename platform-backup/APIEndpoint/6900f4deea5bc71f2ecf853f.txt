@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1761670366958,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/6900f4cb19ea560b2ce46fc4",
+	"id":"6900f4deea5bc71f2ecf853f",
+	"lastModifiedBy":-1,
+	"lcName":"changesetdtsandboxi6us2yveepgi automation web-hook",
+	"modifiedTime":1761670408779,
+	"name":"changeSetDTSANDBOXI6Us2YVeEPGi Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6900f4cb19ea560b2ce46fc4",
+	"resourceIds":[
+		"6900f4cb19ea560b2ce46fc4"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
