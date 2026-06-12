@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1758746953885,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/68d433c3ccf6c74b9692a648",
+	"id":"68d4594932d4383e13f364ef",
+	"lastModifiedBy":-1,
+	"lcName":"test-soap-nulls automation web-hook",
+	"modifiedTime":1758746953885,
+	"name":"test-soap-nulls Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68d433c3ccf6c74b9692a648",
+	"resourceIds":[
+		"68d433c3ccf6c74b9692a648"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
