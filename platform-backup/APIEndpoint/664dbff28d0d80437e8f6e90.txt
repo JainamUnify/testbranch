@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"664af325ae7ee74f1914299e",
+	"createdTime":1716371442416,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/664dbf863179de652ad1a502",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"666b1a3b6b759e6797ac64b0"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"664dbff28d0d80437e8f6e90",
+	"lastModifiedBy":0,
+	"lcName":"zendesk_createticket_getcomments (copy) automation web-hook",
+	"modifiedTime":1719055455449,
+	"name":"Zendesk_createTicket_getComments (Copy) Automation Web-hook",
+	"ownerUserId":39,
+	"path":"664dbf863179de652ad1a502",
+	"resourceIds":[
+		"664dbf863179de652ad1a502"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":9
+}
