@@ -1,0 +1,30 @@
+{
+	"createdTime":1722428088821,
+	"deleted":true,
+	"description":"connector discription added",
+	"enabled":false,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"S",
+					"V"
+				],
+				"principalIds":[
+					"871"
+				],
+				"principalType":"USER"
+			}
+		]
+	},
+	"id":"66aa2ab85a6fb8413a79c0fa",
+	"lastModifiedBy":39,
+	"lcName":"shareconnectorssdk-117224249285110",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1722428122041,
+	"name":"shareConnectorsSdk-117224249285110",
+	"ownerUserId":39,
+	"standard":false,
+	"standardApp":false,
+	"version":2
+}
