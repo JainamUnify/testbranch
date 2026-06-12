@@ -1,0 +1,23 @@
+{
+	"createdTime":1721002088973,
+	"deleted":false,
+	"description":"ESfoeZjbwf",
+	"id":"66946868db9c202ebd7dc704",
+	"input":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{}
+	},
+	"lastModifiedBy":39,
+	"lcName":"kbkvrjfyqn",
+	"modifiedTime":1721002090749,
+	"name":"KbkvRjFyqn",
+	"output":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{}
+	},
+	"ownerUserId":39,
+	"standard":false,
+	"version":1
+}
